@@ -1,3 +1,4 @@
-modify in mygit2
-mygit add 
-in mygit 222222222222222
+11111111111
+222222222222
+33333333333
+all above int myGit2
